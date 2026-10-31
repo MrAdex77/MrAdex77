@@ -15,7 +15,7 @@
 
 Hi there! 👋 I'm a software developer who has been writing code professionally for over 5 years, mostly building mobile apps for iOS and Android in React Native and TypeScript. I enjoy the whole process: planning the architecture, writing the app and the Node.js backend behind it, setting up CI/CD and getting it through App Store and Google Play review. Above all, I care about apps that stay fast and reliable, even on low-end devices.
 
-Outside of client work, I build my own apps and open-source tools. The biggest one is a multiplayer geography game I designed, built and published on my own. I also maintain AsoBeast, an App Store Optimization tracker, and a fully typed Google Play scraper for Node.js.
+Outside of client work, I build my own apps and open-source tools. The biggest one is [Where Am I?](https://whereamigame.app), a multiplayer geography game I designed, built and published on my own. I also maintain AsoBeast, an App Store Optimization tracker, and a fully typed Google Play scraper for Node.js.
 
 - 📱 **5+ years** of software development, focused on **mobile apps in React Native**
 - 🚀 From architecture to App Store and Google Play releases, with CI/CD and automated tests
@@ -60,7 +60,7 @@ Outside of client work, I build my own apps and open-source tools. The biggest o
 | --- | --- | --- |
 | **[google-play-scraper](https://github.com/MrAdex77/google-play-scraper)** | Fully typed Node.js library and CLI for Google Play data | ![npm downloads](https://img.shields.io/npm/dm/@mradex77/google-play-scraper?style=flat-square&color=CB3837) ![stars](https://img.shields.io/github/stars/MrAdex77/google-play-scraper?style=flat-square) |
 | **[AsoBeast](https://github.com/AsoBeast/asobeast)** | Open-source App Store Optimization (ASO) tool and keyword rank tracker (NestJS, Next.js, PostgreSQL, Redis) | ![stars](https://img.shields.io/github/stars/AsoBeast/asobeast?style=flat-square) |
-| **Where Am I?** | Multiplayer geography game for iOS and Android with real-time modes over WebSockets, maps, push notifications and in-app purchases | ![rating](https://img.shields.io/badge/Google_Play-4.2★-34A853?style=flat-square&logo=googleplay&logoColor=white) |
+| **[Where Am I?](https://whereamigame.app)** | Multiplayer geography game for iOS and Android with real-time modes over WebSockets, maps, push notifications and in-app purchases | ![rating](https://img.shields.io/badge/Google_Play-4.2★-34A853?style=flat-square&logo=googleplay&logoColor=white) |
 
 ## GitHub stats
 
