@@ -65,8 +65,8 @@ Outside of client work, I build my own apps and open-source tools. The biggest o
 ## GitHub stats
 
 <p align="center">
-  <img src="./profile/stats.svg" height="165" alt="GitHub stats" />
-  <img src="./profile/top-langs.svg" height="165" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/MrAdex77/MrAdex77/main/profile/stats.svg" height="165" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/MrAdex77/MrAdex77/main/profile/top-langs.svg" height="165" alt="Top languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MrAdex77&theme=tokyonight&hide_border=true" alt="GitHub streak" />
